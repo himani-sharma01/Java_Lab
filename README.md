@@ -100,6 +100,8 @@ public class ArrayReverse {
     }
 }
 ```
+<img width="643" height="241" alt="image" src="https://github.com/user-attachments/assets/10872cab-9445-49ce-afb8-80cd18f0f3fd" />
+
 
 
 ## Code-4
@@ -204,6 +206,9 @@ public class Matrix {
     }
 }
 ```
+<img width="644" height="548" alt="image" src="https://github.com/user-attachments/assets/5a26ff12-b44d-4865-82fd-aeb62d4fdb4e" />
+
+
 
 
 ## Code-5
@@ -288,6 +293,8 @@ public class Demo {
     }
 }
 ```
+<img width="635" height="336" alt="image" src="https://github.com/user-attachments/assets/3d10f798-aff9-46f1-a606-b7c60f1cc663" />
+
 
 ## Code-6
 ```
@@ -335,6 +342,7 @@ public class AddDistance {
     }
 }
 ```
+<img width="652" height="189" alt="image" src="https://github.com/user-attachments/assets/0f214830-6a8a-4c6e-adb5-adc99b4b8377" />
 
 
 ## Code-7
@@ -383,6 +391,8 @@ public class AddTime {
     }
 }
 ```
+<img width="658" height="183" alt="image" src="https://github.com/user-attachments/assets/df714c04-0610-4588-b7fc-7030501e2001" />
+
 
 ## Code-8
 ```
@@ -427,4 +437,5 @@ public class Inheritance {
     }
 }
 ```
+<img width="616" height="180" alt="image" src="https://github.com/user-attachments/assets/d2e1b2f3-da57-4de7-a06e-99e9c45d1d3e" />
 
